@@ -1,0 +1,17 @@
+Bo:
+   age: 5
+   color: black
+   owner: potus
+   location: DC
+
+Suuny:
+   age: 1
+   color: black
+   owner: fotus
+   location: DC
+
+Musa:
+   age: 10
+   color: white
+   owner: newville
+   location: IL
